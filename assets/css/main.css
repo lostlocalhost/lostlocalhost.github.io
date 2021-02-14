@@ -865,7 +865,7 @@ ul.icons li a {
   width: 3.75em;
   height: 3.75em;
   border-radius: 100%;
-  border: solid 1px #c9c8cf;
+  border: solid 1px #ff3333;
   line-height: 3.75em;
   overflow: hidden;
   text-align: center;
@@ -887,7 +887,7 @@ ul.icons li a:before {
 }
 
 ul.icons li a:before {
-  color: #ffffff;
+  color: #ff3333;
   text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf,
     0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 }
